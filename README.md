@@ -1,3 +1,2 @@
-myapp
+Small one page app using css and html
 
-This is my app
